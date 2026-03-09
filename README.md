@@ -88,7 +88,7 @@
 
 <br/>
 
-<!-- Contribution Snake -->
+<!-- Contribution Snake 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vouxx/vouxx/output/github-snake-dark.svg" />
@@ -97,7 +97,7 @@
   </picture>
 </div>
 
-<br/>
+<br/>-->
 
 <!-- Footer -->
 <div align="center">
