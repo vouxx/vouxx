@@ -30,28 +30,28 @@
 ### `Frontend`
 
 #### Language
-![HTML5](https://img.shields.io/badge/HTML5-1e40af?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1e40af?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e40af?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1e40af?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1e3a5f?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1e3a5f?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e3a5f?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e3a5f?style=flat-square&logo=typescript&logoColor=white)
 
 #### Framework
-![React](https://img.shields.io/badge/React-1e40af?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1e40af?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-1e40af?style=flat-square&logo=vuedotjs&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-1e40af?style=flat-square&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-1e3a5f?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1e3a5f?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-1e3a5f?style=flat-square&logo=vuedotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-1e3a5f?style=flat-square&logo=jquery&logoColor=white)
 
 #### State & Libraries
-![Zustand](https://img.shields.io/badge/Zustand-1e40af?style=flat-square&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-1e40af?style=flat-square&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-1e40af?style=flat-square&logo=framer&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-1e40af?style=flat-square&logo=axios&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-1e3a5f?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-1e3a5f?style=flat-square&logo=redux&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-1e3a5f?style=flat-square&logo=framer&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-1e3a5f?style=flat-square&logo=axios&logoColor=white)
 
 #### Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1e40af?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-1e40af?style=flat-square&logo=sass&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled%20Components-1e40af?style=flat-square&logo=styledcomponents&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1e40af?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1e3a5f?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-1e3a5f?style=flat-square&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-1e3a5f?style=flat-square&logo=styledcomponents&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1e3a5f?style=flat-square&logo=bootstrap&logoColor=white)
 
 </div>
 
@@ -63,26 +63,26 @@
 ### `Backend`
 
 #### Runtime & ORM
-![Node.js](https://img.shields.io/badge/Node.js-15803d?style=flat-square&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-15803d?style=flat-square&logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-15803d?style=flat-square&logo=mongoose&logoColor=white)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-15803d?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-115e59?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-115e59?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-115e59?style=flat-square&logo=mongoose&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-115e59?style=flat-square&logo=nextdotjs&logoColor=white)
 
 #### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15803d?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-15803d?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-15803d?style=flat-square&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-15803d?style=flat-square&logo=neon&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-115e59?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-115e59?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-115e59?style=flat-square&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-115e59?style=flat-square&logo=neon&logoColor=white)
 
 <br/>
 
 ### `Tools & DevOps`
 
-![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-334155?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-334155?style=flat-square&logo=vercel&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-334155?style=flat-square&logo=playwright&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-334155?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2d3748?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-2d3748?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-2d3748?style=flat-square&logo=vercel&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2d3748?style=flat-square&logo=playwright&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-2d3748?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
