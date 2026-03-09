@@ -15,10 +15,10 @@
 
 ### `Portfolio`
 
-[![WBS](https://img.shields.io/badge/WBS-1a1a2e?style=flat-square&logo=googlesheets&logoColor=white)](https://vouxx-wbs.vercel.app)
-[![ZEEK](https://img.shields.io/badge/ZEEK-1a1a2e?style=flat-square&logo=feedly&logoColor=white)](https://vouxx-zeek.vercel.app)
-[![Moodify](https://img.shields.io/badge/Moodify-1a1a2e?style=flat-square&logo=spotify&logoColor=white)](https://vouxx-moodify.vercel.app)
-[![Devlog](https://img.shields.io/badge/Devlog-1a1a2e?style=flat-square&logo=hashnode&logoColor=white)](https://vouxx-dev-vlog.vercel.app)
+[![WBS](https://img.shields.io/badge/WBS-1e3a5f?style=flat-square&logo=googlesheets&logoColor=white)](https://vouxx-wbs.vercel.app)
+[![ZEEK](https://img.shields.io/badge/ZEEK-115e59?style=flat-square&logo=feedly&logoColor=white)](https://vouxx-zeek.vercel.app)
+[![Moodify](https://img.shields.io/badge/Moodify-3b1f6e?style=flat-square&logo=spotify&logoColor=white)](https://vouxx-moodify.vercel.app)
+[![Devlog](https://img.shields.io/badge/Devlog-1e3a5f?style=flat-square&logo=hashnode&logoColor=white)](https://vouxx-dev-vlog.vercel.app)
 
 </div>
 
