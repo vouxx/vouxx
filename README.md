@@ -79,6 +79,17 @@
 
 <br/>
 
+<!-- Contribution Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vouxx/vouxx/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vouxx/vouxx/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vouxx/vouxx/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />

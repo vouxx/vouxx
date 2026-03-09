@@ -1,0 +1,24 @@
+name: GitHub Status
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          committer_gist: 0834039c7f02adac74db489b97e6d94e
+          user: vouxx
+          template: repository
+          plugin_isocalendar: no
+          plugin_languages: no
+          plugin_stars: no
+          plugin_followup: no
+          plugin_reactions: no
+          config_display: regular
+          output_action: gist
