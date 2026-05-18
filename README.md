@@ -82,7 +82,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-2d3748?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-2d3748?style=flat-square&logo=vercel&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2d3748?style=flat-square&logo=playwright&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-2d3748?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
