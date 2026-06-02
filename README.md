@@ -3,12 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Zei&fontSize=80&fontAlignY=30&desc=Front-End%20Developer&descSize=24&descAlignY=52" width="100%" />
 </div>
 
-<!-- Intro -->
+<!-- Intro 
 <div align="center">
   <br/>
-  <h4>React / Next.js 기반 프론트엔드 개발자</h4>
 </div>
-
+-->
 <br/>
 
 <div align="center">
