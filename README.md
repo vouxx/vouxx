@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Zei&fontSize=80&fontAlignY=30&desc=Front-End%20Developer&descSize=24&descAlignY=52" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Zei&fontSize=80&fontAlignY=30&desc=Full-Stack%20Developer&descSize=24&descAlignY=52" width="100%" />
 </div>
 
 <!-- Intro 
